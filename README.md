@@ -9,3 +9,5 @@ To run the project :
 
 3. react-native run-ios
 
+
+![](googleSDK.gif)
